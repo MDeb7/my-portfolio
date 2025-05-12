@@ -1,0 +1,41 @@
+[
+  {
+    "role": "Post Graduate Student",
+    "organisation": "Banaras Hindu University",
+    "startDate": "October, 2023",
+    "endDate": "Present",
+    "location": "Varanasi, India", 
+    "experiences": [
+      "I am a computer science student, dedicated to building knowledge and skills for the ever-evolving tech industry",
+      "till now, CGPA: 7.55"
+    ], 
+    "imageSrc": "history/bhu.png"
+  },
+  {
+    "role": "Under Graduate Student",
+    "organisation": "Scottish Church College",
+    "startDate": "December, 2020",
+    "endDate": "September, 2023",
+    "location": "Kolkata, India",
+    "experiences": [
+      "I was a mathematics student, passionate about applying mathematical concepts to real-world scenarios.",
+      "CGPA: 7.721",
+      "I had been a part of the college photography and nature club."
+    ],
+    "imageSrc": "history/scc.png"
+  },
+  {
+    "role": "School Student",
+    "organisation": "Don Bosco School Liluah",
+    "startDate": "April, 2005",
+    "endDate": "August, 2020",
+    "location": "Howrah, India",
+    "experiences": [
+      "I was a student dedicated to the basics of education, with a strong foundation in science and literature.",
+      "Class 10 percentage: 90.5%",
+      "Class 12 percentage: 92.5%",
+      "I had been a part of the school science and nature club."
+    ],
+    "imageSrc": "history/dbl.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Realtime Chat App",
+    "imageSrc": "projects/project.png",
+    "description": "It enables instant communication, letting users send and receive messages seamlessly without delay.",
+    "skills": ["React", "Express", "NodeJS", "MongoDB", "Socket.io"],
+    "demo": "https://chat-app-tfqf.onrender.com/",
+    "source": "https://github.com/MDeb7/chat-app"
+  },
+  {
+    "title": "Hostel Management System",
+    "imageSrc": "projects/project.png",
+    "description": "An end-to-end digital platform for hostel management alongwith seamless payment processing.",
+    "skills": ["React", "ExpressJS", "NodeJS", "MongoDB"],
+    "demo": "https://deb-airbnb.onrender.com/listings",
+    "source": "https://github.com/MDeb7/hostel-management-system"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
+  
